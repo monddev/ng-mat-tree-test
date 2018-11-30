@@ -1,0 +1,15 @@
+ul,
+li {
+  list-style-type: none;
+  margin: 0;
+}
+
+.mat-tree-node {
+  display: unset;
+}
+
+.mat-icon-button {
+    width:  unset;
+    height: unset;
+    line-height: unset;
+}
